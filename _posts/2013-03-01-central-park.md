@@ -2,7 +2,7 @@
 layout: post
 title: 中央公园 纽约的第六区
 author: zoe
-categories: travel
+categories: 旅行
 
 ---
 

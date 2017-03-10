@@ -2,7 +2,7 @@
 layout: post
 title: 香料——餐桌上的旅行者
 author: zoe
-categories: food
+categories: 美食
 
 ---
 
