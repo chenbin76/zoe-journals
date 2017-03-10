@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 曼哈顿 那些文艺入骨的酒店
+author: zoe
+categories: travel
 
 ---
 

@@ -7,17 +7,17 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: HappySeeker
-subtitle: "HappySeeker's blog & My Tech Life"
-email: jiang.biao@hotmail.com
-name: jiangbiao
+title: Zoe's Journals
+subtitle: "Travel, food, and more"
+email: wjliu1982@hotmail.com
+name: zoe
 description: >
-  HappySeeker's blog & My Tech Life.
+  Zoe's Journals - Travel, food, and more
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://happyseeker.github.io" # the base hostname & protocol for your site
+url: "https://chenbin76.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
@@ -42,33 +42,18 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: jiangbiao
+disqus_shortname: zoe-journals
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: Kernel
-    desc: "Linux内核相关技术."
+  - cat: 旅行
+    desc: "旅行"
 
-  - cat: Linux
-    desc: "Linux相关技术."
-
-  - cat: Graphic
-    desc: "图形相关技术."
-
-  - cat: Trouble Shooting Cases
-    desc: "故障分析和相关案例."
-
-  - cat: Git 
-    desc: "Git相关经验和开源相关内容."
-
-  - cat: Agile 
-    desc: "敏捷相关."
-
-  - cat: Life
-    desc: "生活相关."
+  - cat: 美食
+    desc: "美食"
 
 # Social icons and sharing options
 #
@@ -99,20 +84,20 @@ descriptions:
 #    url:
 #    desc: Friend me on Facebook
 #    share: true
-social:
-  - name: GitHub
-    icon: github
-    username: HappySeeker
-    url: https://github.com/happyseeker
-    desc: Fork me on GitHub
-    share: true
+#social:
+#  - name: GitHub
+#    icon: github
+#    username: HappySeeker
+#    url: https://github.com/happyseeker
+#    desc: Fork me on GitHub
+#    share: true
 
-  - name: LinkedIn
-    icon: linkedin
-    username: JiangBiao
-    url: https://www.linkedin.com/in/%E5%BD%AA-%E8%92%8B-213712102?trk=hp-identity-name
-    desc: Connect with me on LinkedIn
-    share: true
+#  - name: LinkedIn
+#    icon: linkedin
+#    username: JiangBiao
+#    url: https://www.linkedin.com/in/%E5%BD%AA-%E8%92%8B-213712102?trk=hp-identity-name
+#    desc: Connect with me on LinkedIn
+#    share: true
 
 #  - name: Google+
 #   icon: google-plus
@@ -154,13 +139,13 @@ social:
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
-protocols:
-    fb_image: "/assets/logo.png"
-    fb_image_width: 612
-    fb_image_height: 605
-    fb_image_type: "image/png"
+#protocols:
+#    fb_image: "/assets/logo.png"
+#    fb_image_width: 612
+#    fb_image_height: 605
+#    fb_image_type: "image/png"
 
-    twitter_image: "/assets/logo.png"
+#    twitter_image: "/assets/logo.png"
 
 #    os_repo: "https://github.com/RichardLitt/wordhoardpress.com"
 #    os_rcs_type: "git"
